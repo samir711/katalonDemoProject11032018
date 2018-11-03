@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_001</name>
+   <tag>GitIntegration</tag>
+   <comment></comment>
+   <testCaseGuid>721ce9f5-bea9-4c2c-8836-4b4d9b17bdbb</testCaseGuid>
+</TestCaseEntity>
